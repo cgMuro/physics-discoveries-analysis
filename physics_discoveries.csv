@@ -1,0 +1,93 @@
+Date,Person,Discovery,Country of origin
+250 BCE,Archimedes,Archimedes' principle,Greece
+1514,Nicholas Copernicus,Heliocentrism,Poland
+1589,Galileo Galilei,Galileo's Leaning Tower of Pisa experiment,Italy
+1609,Kepler,Kepler's first law of planetary motion,Germany
+1609,Kepler,Kepler's second law of planetary motion,Germany
+1619,Kepler,Kepler's third law of planetary motion,Germany
+1613,Galileo Galilei,Inertia,Italy
+1621,Willebrord Snellius,Snell's law,Holland
+1660,Blaise Pascal,Pascal's Principle,France
+1660,Robert Hooke,Hooke's law,UK
+1676,Ole Rømer,Rømer's determination of the speed of light traveling from the moons of Jupiter,Denmark
+1678,Christiaan Huygens,Christiaan Huygens mathematical wave theory of light,Holland
+1687,Isaac Newton,Newton's laws of motion,UK
+1687,Isaac Newton,Newton's law of universal gravitation,UK
+1782,Lavoisier,Conservation of matter,France
+1785,Charles-Augustin de Coulomb,Inverse square law for electric charges confirmed,France
+1801,Thomas Young,Wave theory of light,UK
+1803,John Dalton,Atomic theory of matter,UK
+1806,Thomas Young,Kinetic energy,UK
+1814,Augustin-Jean Fresnel,Wave theory of light,France
+1814,Augustin-Jean Fresnel,optical interference,France
+1820,"André-Marie Ampère, Jean-Baptiste Biot, Félix Savart",Evidence for electromagnetic interactions,France
+1827,Georg Ohm,Electrical resistance,Germany
+1831,Michael Faraday,Electromagnetic induction,UK
+1838,Michael Faraday,Lines of Force,UK
+1838,Wilhelm Eduard Weber and Carl Friedrich Gauss,Earth's magnetic field @@@@
+1842-1843,William Thomson (Lord Kelvin),Conservation of energy,UK
+1845,Michael Faraday,Faraday rotation (interaction of light and magnetic field),UK
+1850-1851,William Thomson (Lord Kelvin),Second law of thermodynamics,UK
+1859,James Clerk Maxwell,Kinetic theory,UK
+1861,Gustav Kirchhoff,Black body,Germany
+1863,Rudolf Clausius,Entropy,Germany
+1864,James Clerk Maxwell,Dynamical Theory of the Electromagnetic Field,UK
+1867,James Clerk Maxwell,On the Dynamical Theory of Gases (kinetic theory of gases),UK
+1871-1889,"Ludwig Boltzmann, Josiah Willard Gibbs",Statistical mechanics,Multiple
+1872,Ludwig Boltzmann,Boltzmann equation,Austria
+1887,"Albert A. Michelson, Edward W. Morley",Michelson–Morley experiment,US
+1887,Heinrich Rudolf Hertz,Electromagnetic waves,Germany
+1889-1892,"Hendrik Lorentz, George Francis FitzGerald",Lorentz-FitzGerald contraction,Multiple
+1893,Wilhelm Wien,Wien's displacement law for black-body radiation,Germany
+1895,Wilhelm Röntgen,X-rays,Germany
+1896,Henri Becquerel,Radioactivity,France
+1897,J. J. Thomson,Electron discovered,UK
+1900,Max Planck,Formula for Black body radiation,Germany
+1905,Albert Einstein,Special relativity,Germany
+1905,Albert Einstein,Photoelectric effect,Germany
+1905,Albert Einstein,Brownian motion,Germany
+1905,Albert Einstein,Mass–energy equivalence,Germany
+1911,Ernest Rutherford,Discovery of the atomic nucleus,UK
+1911,Kamerlingh Onnes,Superconductivity,Holland
+1913,Niels Bohr,Bohr model of the atom,Denmark
+1916,Albert Einstein,General Relativity,Germany
+1922,"Otto Stern, Walther Gerlach",Stern–Gerlach experiment,Germany
+1923,Louis de Broglie,Matter waves,France
+1923,Edwin Hubble,Galaxies,US
+1925,Werner Heisenberg,Matrix Mechanics,Germany
+1927,Georges Lemaître,Big Bang,France
+1927,Werner Heisenberg,Uncertainty Principle,Germany
+1928,Paul Dirac,Antimatter predicted,UK
+1929,Edwin Hubble,Expansion of universe confirmed,US
+1932,Carl David Anderson,Antimatter discovered,US
+1932,James Chadwick,Neutron discovered,UK
+1937,Carl David Anderson & Seth Neddermeyer,Muon discovered,US
+1938,Pyotr Kapitsa,Superfluidity discovered,Russia
+1938,Otto Hahn,Nuclear fission discovered,Germany
+1947,"C.F. Powell, Giuseppe Occhialini, César Lattes",Pion discovered,Multiple
+1948,Richard Feynman,Theory of Quantum Electrodynamics,US
+1956,Multiple,Electron neutrino discovered,Multiple
+1957,Multiple,Parity violation discovered,Multiple
+1957,"John Bardeen, Leon Cooper, John Robert Schrieffer",Theory of Superconductivity,US
+1962,Multiple,Theory of strong interactions,Multiple
+1962,Multiple,Muon neutrino discovered,Multiple
+1964,John Stewart Bell,Bell's Theorem initiates quantitative study of quantum entanglement,UK
+1967,"Sheldon Glashow, Abdus Salam, Steven Weinberg",Theory of Weak interaction,Multiple
+1967,Multiple,Pulsars discovered,Multiple
+1974,Multiple,Charmed quark discovered,Multiple
+1975,Multiple,Tau lepton discovered,Multiple
+1977,Multiple,Bottom quark discovered,Multiple
+1980,Multiple,Quantum Hall effect discovered,Multiple
+1980,Richard Feynman,Richard Feynman proposes quantum computing,US
+1981,Alan Guth,Theory of cosmic inflation,US
+1981,Multiple,Fractional quantum Hall effect discovered,Multiple
+1984,Multiple,First laboratory implementation of quantum cryptography,Multiple
+1994,Peter Shor,shor's algorithm (beginning of quantum computation),US
+1995,Multiple,Top quark discovered,Multiple
+1998,Multiple,Accelerating universe discovered,Multiple
+2000,Multiple,Quark-gluon plasma found,Multiple
+2000,Multiple,Tau neutrino discovered,Multiple
+2003,Multiple,WMAP observations of cosmic microwave background,Multiple
+2012,Peter Higgs,Higgs Boson discovered,UK
+2015,Multiple,Gravitational waves detected,Multiple
+2019,Multiple,First image of a Black hole,Multiple
